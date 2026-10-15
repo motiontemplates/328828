@@ -4,7 +4,7 @@
 
 Repaint a photo with three directional brush layers, compare it with the original and reveal a signed title.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.5.1** · [@prism-studio](https://motiongit.com/@prism-studio) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.5.3** · [@prism-studio](https://motiongit.com/@prism-studio) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@prism-studio/visual-art-d-brushwork)**
 https://motiongit.com/@prism-studio/visual-art-d-brushwork
