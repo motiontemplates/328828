@@ -3,7 +3,7 @@
 Repaint a photo with three directional brush layers, compare it with the original and reveal a signed title.
 
 Template & full download: https://motiongit.com/@prism-studio/visual-art-d-brushwork
-Version: 2.6.3
+Version: 2.6.4
 Download available; current terms are listed with the package.
 
 ## Technical reference
